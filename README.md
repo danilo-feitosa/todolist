@@ -15,7 +15,6 @@ Uma aplicação moderna de lista de tarefas desenvolvida com Nuxt.js, Vue 3 e Nu
 ## 🛠️ Tecnologias Utilizadas
 
 - [Nuxt.js](https://nuxt.com/) - Framework Vue.js
-- [Vue 3](https://vuejs.org/) - Framework JavaScript progressivo
 - [Nuxt UI](https://ui.nuxt.com/) - Biblioteca de componentes
 - [TailwindCSS](https://tailwindcss.com/) - Framework CSS
 - TypeScript - Superset JavaScript tipado
@@ -65,14 +64,6 @@ yarn dev
 - `.nuxt/` - Arquivos gerados pelo Nuxt
 - `node_modules/` - Dependências do projeto
 
-## 🤝 Contribuição
-
-Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT.
-
 ## 👨‍💻 Autor
 
-Desenvolvido por Danilo Feitosa
+Desenvolvido por [Danilo Feitosa](https://github.com/danilo-feitosa)

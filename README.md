@@ -29,7 +29,7 @@ Uma aplicação moderna de lista de tarefas desenvolvida com Nuxt.js, Vue 3 e Nu
 1. Clone o repositório:
 ```bash
 git clone [url-do-repositório]
-cd todolistfrontend
+cd todolist
 ```
 
 2. Instale as dependências:
